@@ -77,7 +77,6 @@
 			isa = PBXGroup;
 			children = (
 				1ECF00B0200488B200C2E11D /* Main.storyboard */,
-				1ECF00B5200488B200C2E11D /* LaunchScreen.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -94,6 +93,7 @@
 		1ECF00C32006C1D900C2E11D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1ECF00B5200488B200C2E11D /* LaunchScreen.storyboard */,
 				1ECF00B3200488B200C2E11D /* Assets.xcassets */,
 			);
 			path = "Supporting Files";
